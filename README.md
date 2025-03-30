@@ -11,6 +11,7 @@
         - z wykorzystaniem struktury Radix Heap
     
     Wszelkie struktury i algorytmy zostały napisane na potrzeby projektu (nie są wykorzystywane żadne gotowe elementy z bibliotek)
+    Implementacje są zgodne z wytycznymi 9th DIMACS Implementation Challange
 
 ### STRUKTURA PLIKÓW
 
@@ -18,7 +19,7 @@
 
     - Makefile: plik do zautomatyzowanego kompilowania programu
 
-    - AOD3.pdf: omówienie algorytmów oraz dane z przeprowadzonych testów
+    - AOD3.pdf: omówienie algorytmów oraz dane z przeprowadzonych testów (testy były przeprowadzane na danych z 9th DIMACS Implementation Challange)
 
     - src: folder z plikami źródłowymi
 
